@@ -18,7 +18,43 @@
 {% endraw %}
 
 # A
-Don’t be smug, a smart ass, a know it all. It never wins anyone’s favor: family, friends, foe. Channel whatsoever your superpower into your 5/5 tech-stack. For everything else, smile, listen, node..
+Don’t be: 
+- Smug
+- A smart ass
+- A know it all
+
+It never wins anyone’s favor: 
+- Family
+- Friends
+- Foe
+
+Channel your superpower into your 5/5 tech-stack: 
+
+$$
+(E, x)
+$$
+
+$$
+E(t \mid x) + \epsilon
+$$
+
+$$
+\frac{dE_x}{dt}
+$$
+
+$$
+\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}
+$$
+
+
+$$
+\int E_x,dt + \epsilon t + C_x
+$$
+
+For everything else:
+- Smile
+- Listen
+- Node..
 
 
 # B
