@@ -28,7 +28,7 @@ It never wins anyone’s favor:
 - Friends
 - Foe
 
-Channel your superpower into your 5/5 tech-stack: 
+Channel your superpower into your 5/5 [tech-stack](https://ukb-dt.github.io/who-03/): 
 
 $$
 (E, x)
